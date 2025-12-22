@@ -5,3 +5,5 @@ This example code will blink the RGB LED in the hackcable which is connected wit
 **code.py** - This is the example code, just copy and paste the code to Thonny and run the code. You will see the LED will start blinking and you can create your blinking patterns.
 
 **neopixel.mpy**- Make sure this pixel file must be copy and pasted in the lib folder of the device. Copy this file from Library folder
+
+![screenshot](Images/1.png)
