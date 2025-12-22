@@ -6,4 +6,4 @@ This example code will blink the RGB LED in the hackcable which is connected wit
 
 **neopixel.mpy**- Make sure this pixel file must be copy and pasted in the lib folder of the device. Copy this file from Library folder
 
-![screenshot](https://github.com/LoveTechPi/HackCable/Images/1.png)
+![screenshot](https://github.com/LoveTechPi/HackCable/blob/main/Images/1.PNG)
