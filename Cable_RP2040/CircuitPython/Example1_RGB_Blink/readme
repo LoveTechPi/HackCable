@@ -1,4 +1,4 @@
-# Example RGB LED BLINK uisng CircuitPython
+#Example RGB LED BLINK uisng CircuitPython
 
 This example code will blink the RGB LED in the hackcable which is connected with GP25 of the RP2040.
 
