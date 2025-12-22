@@ -1,4 +1,4 @@
-Example 2 - Open the notepad and write something on it
+#Example 2 - Open the notepad and write something on it
 
 This example code will open the Notepad and write a text to it and also blink the RGB LED.
 
