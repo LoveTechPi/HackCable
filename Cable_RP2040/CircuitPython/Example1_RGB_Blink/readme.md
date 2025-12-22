@@ -1,6 +1,6 @@
 ## Example 1 - RGB LED BLINK uisng CircuitPython
 
-This example code will blink the RGB LED in the hackcable which is connected with GP25 of the RP2040.
+This example code will blink the RGB LED in the hackcable which is connected with **GP25** of the RP2040.
 
 **code.py** - This is the example code, just copy and paste the code to Thonny and run the code. You will see the LED will start blinking and you can create your blinking patterns.
 
