@@ -9,6 +9,6 @@ This example code will blink the RGB LED in the hackcable which is connected wit
 
 <img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/1.PNG" alt="Image1" width="70%"/>
 
-<img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/1.PNG" alt="Image2" width="70%"/>
+<img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/2.PNG" alt="Image2" width="70%"/>
 
 
