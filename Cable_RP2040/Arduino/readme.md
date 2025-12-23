@@ -24,5 +24,5 @@ We will use Arduino IDE for running ethical hacking codes using C/C++
    
 7. Go to TOOLS->Boards-> Select the Raspberry Pi Pico
 
-<img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/8.PNG" alt="Image" width="70%"/>   
+<img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/8.png" alt="Image" width="70%"/>   
 
