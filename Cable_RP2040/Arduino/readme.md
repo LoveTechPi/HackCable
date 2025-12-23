@@ -7,4 +7,5 @@ We will use Arduino IDE for running ethical hacking codes using C/C++
    
    `https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`
 
-4. 
+4. Select File > Preference > Additional Board Manager URL and add the above URL
+<img width="1255" height="838" alt="image" src="https://github.com/user-attachments/assets/81c775d3-5830-4bd7-9cee-c3343ea4f8a9" />
