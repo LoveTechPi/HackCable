@@ -7,3 +7,11 @@ We will use Arduino IDE for running ethical hacking codes using C/C++
 3. Go to the TOOLS->BOARDS->BOARDS MANAGER and install the ESP32
 
 <img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/10.PNG" alt="Image2" width="70%"/>
+
+4. Now connect the USB cable (if port is not comming then try to connect the PC while pressing the button) and configure the tool settings
+   
+<img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/11.png" alt="Image2" width="70%"/>
+
+<img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/12.png" alt="Image2" width="70%"/>
+
+<img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/13.png" alt="Image2" width="70%"/>
