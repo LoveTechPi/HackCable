@@ -26,3 +26,7 @@ We will use Arduino IDE for running ethical hacking codes using C/C++
 
 <img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/8.png" alt="Image" width="70%"/>   
 
+8. Install the Neopixel Library for the RGB LED
+
+<img src="https://github.com/LoveTechPi/HackCable/blob/main/Images/9.PNG" alt="Image" width="70%"/>   
+
