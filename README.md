@@ -7,5 +7,3 @@ Introducing the HackCable, the ultimate tool for cybersecurity enthusiasts, ethi
 
 The cable comes in two versions RP2040 and ESP32. According to the version different folders are created with example codes.
 
-### HackCable-RP2040
-
